@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title id="title">Instant Pay adoption milestones</title><desc id="desc">36 percent December 2025 usage baseline at launch, 79 percent by the end of January 2026, and 94 percent September 2026 adoption. Launch date December 28, 2025. Three reported observations with different baseline and post-launch populations; not a continuous monthly series.</desc>
+<rect width="1200" height="620" rx="24" fill="#0e1c30"/>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<text x="60" y="55" fill="#6ee7d0" font-size="15" font-weight="700" letter-spacing="2">INSTANT PAY · ADOPTION MILESTONES</text>
+<text x="60" y="101" fill="#ffffff" font-size="32" font-weight="700">A stronger experience. Broader usage.</text>
+<text x="60" y="136" fill="#bfccdc" font-size="17">Launched December 28, 2025 · 79% by the end of January 2026</text>
+<line x1="125" y1="440.0" x2="1120" y2="440.0" stroke="#304057"/><text x="105" y="445.0" text-anchor="end" fill="#a9b9cf" font-size="14">0%</text>
+<line x1="125" y1="377.5" x2="1120" y2="377.5" stroke="#304057"/><text x="105" y="382.5" text-anchor="end" fill="#a9b9cf" font-size="14">25%</text>
+<line x1="125" y1="315.0" x2="1120" y2="315.0" stroke="#304057"/><text x="105" y="320.0" text-anchor="end" fill="#a9b9cf" font-size="14">50%</text>
+<line x1="125" y1="252.5" x2="1120" y2="252.5" stroke="#304057"/><text x="105" y="257.5" text-anchor="end" fill="#a9b9cf" font-size="14">75%</text>
+<line x1="125" y1="190.0" x2="1120" y2="190.0" stroke="#304057"/><text x="105" y="195.0" text-anchor="end" fill="#a9b9cf" font-size="14">100%</text>
+<rect x="168" y="350.0" width="164" height="90.0" rx="8" fill="#8298b4"/><text x="250" y="335.0" text-anchor="middle" fill="#ffffff" font-size="34" font-weight="700">36%</text><text x="250" y="475" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">DEC 2025</text><text x="250" y="502" text-anchor="middle" fill="#bfccdc" font-size="15">Baseline at launch</text>
+<rect x="538" y="242.5" width="164" height="197.5" rx="8" fill="#52d9c1"/><text x="620" y="227.5" text-anchor="middle" fill="#ffffff" font-size="34" font-weight="700">79%</text><text x="620" y="475" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">JAN 2026</text><text x="620" y="502" text-anchor="middle" fill="#bfccdc" font-size="15">End of first month</text>
+<rect x="908" y="205.0" width="164" height="235.0" rx="8" fill="#8dafff"/><text x="990" y="190.0" text-anchor="middle" fill="#ffffff" font-size="34" font-weight="700">94%</text><text x="990" y="475" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">SEP 2026</text><text x="990" y="502" text-anchor="middle" fill="#bfccdc" font-size="15">Active 1099 nurses</text>
+<line x1="60" y1="535" x2="1140" y2="535" stroke="#304057"/>
+<text x="60" y="567" fill="#bfccdc" font-size="14">Reported milestones only. December baseline and 2026 active-1099 adoption are not a controlled comparison.</text>
+<text x="60" y="591" fill="#9bafc9" font-size="13">Source: project lead and internal impact analysis, Oct 28, 2026. Percentages rounded; absolute figures omitted.</text>
+</g></svg>
